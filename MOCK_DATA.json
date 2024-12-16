@@ -1,0 +1,37 @@
+[
+    {
+        "first_name": "Cesya",
+        "last_name": "Dyment",
+        "email": "cdyment0@usnews.com",
+        "gender": "F",
+        "job_title": "Social Worker"
+    },
+    {
+        "first_name": "Morten",
+        "last_name": "Terrill",
+        "email": "mterrill1@slashdot.org",
+        "gender": "M",
+        "job_title": "Speech Pathologist"
+    },
+    {
+        "first_name": "Trumaine",
+        "last_name": "Klimkiewich",
+        "email": "tklimkiewich2@hp.com",
+        "gender": "M",
+        "job_title": "Software Test Engineer II"
+    },
+    {
+        "first_name": "Ottilie",
+        "last_name": "Ambrose",
+        "email": "oambrose3@boston.com",
+        "gender": "F",
+        "job_title": "Senior Developer"
+    },
+    {
+        "first_name": "Kiley",
+        "last_name": "Mossom",
+        "email": "kmossom4@typepad.com",
+        "gender": "M",
+        "job_title": "Cost Accountant"
+    }
+]
